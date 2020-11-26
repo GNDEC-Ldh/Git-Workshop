@@ -33,7 +33,9 @@ and what not.
 Can you imagine any one of the above is finalised in a single shot, or only one
 person is involved in giving it a final shape?
 
-No, a big **NO**. That never happens. Even a small document, like an office memo or a
+No, a big **NO**.
+
+That never happens. Even a small document, like an office memo or a
 notice undergoes a number of revisions and every task involves multiple
 persons.
 
