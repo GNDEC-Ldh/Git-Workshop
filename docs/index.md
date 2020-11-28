@@ -5,6 +5,14 @@ Duration: 20 hours (One week, 5 working days @ 4 hours per day), includes on-lin
 exercises, assignments, evaluations, on-line asynchronous troubleshooting
 discussion with resource persons as well as peer to peer.
 
+## Information Brochure
+
+View it at [https://gdy.club/gitSDT](https://gdy.club/gitSDT)
+
+## Registration
+
+Register at [https://gdy.club/tm](https://gdy.club/tm)
+
 ## Resource persons
 
 1. Dr. H. S. Rai
