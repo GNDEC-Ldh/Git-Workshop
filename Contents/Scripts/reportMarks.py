@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv (r'marks.csv') 
+df = pd.read_csv (r'../Data/marks.csv') 
 
 # block 1 - simple stats
 mean1 = df['Marks'].mean()
