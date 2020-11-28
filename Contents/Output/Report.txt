@@ -1,0 +1,20 @@
+Mean marks: 62.0
+Sum of marks: 558
+Max marks: 92
+Min marks: 35
+Count of marks: 9
+Median marks: 65.0
+Std of marks: 21.66217902243447
+Var of marks: 469.25
+Sum of values, grouped by the Subject:
+         Roll No  Marks
+Subject                
+ESC104        53    195
+Math102       53    181
+Phy101        53    182
+Count of values, grouped by the Subject:
+         Roll No  Marks
+Subject                
+ESC104         3      3
+Math102        3      3
+Phy101         3      3
