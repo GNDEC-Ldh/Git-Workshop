@@ -1,4 +1,4 @@
-#HOW TO CREATE GITHUB ACCOUNT#
+# HOW TO CREATE GITHUB ACCOUNT #
 1. Go to https://github.com/join in a web browser. You can use any web browser on your computer, phone, or tablet to join.
      ![ ](https://www.wikihow.com/images/thumb/4/4a/Create-an-Account-on-GitHub-Step-1.jpg/aid1365192-v4-728px-Create-an-Account-on-GitHub-Step-1.jpg.webp)
 1. Enter your personal details. In addition to creating a username and entering an email address, you'll also have to create a password. 
