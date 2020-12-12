@@ -1,4 +1,4 @@
-## On the end of spell -I
+## At the end of spell -I
 
 |Categories  |Registered|Qualify / Pass|Pass %age|
 |------------|----------|--------------|---------|
