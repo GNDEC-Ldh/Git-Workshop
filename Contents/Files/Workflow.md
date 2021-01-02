@@ -28,12 +28,12 @@ What do you mean by forking?
 In my opinion, you can visualise it like that your head office has created a
 cake or a pizza and you can have a bite of that pizza for yourself, which
 you cut with the help of a FORK.  That means, the pizza prepared by head
-office can be tasted by yourself, that is, you can eat it
-
-and beauty is that it is not only a small piece which you can take in your
-mouth, in your own area, but you can take the whole pizza.  So forking
-means, taking work of someone else, into your own area by copying it.  This
-is the forking and another beauty is that when you fork, you get everything,
+office can be tasted by yourself, that is, you can eat it and beauty is
+that it is not only a small piece which you can take in your mouth, in your own
+area, but you can take the whole pizza.     
+  
+So forking means, taking work of someone else, into your own area by copying it. 
+This is the forking and another beauty is that when you fork, you get everything,
 which is there in the repository created by the head office, but full pizza
 is still available with the head office and other authorised employees can
 also fork it.  So in our context, forking means getting a copy of work done
